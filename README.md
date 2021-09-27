@@ -12,4 +12,6 @@ Links to Beginner Tutorial include:
 
 After finishing *LEarn Enough Git to be Dangerous*, you will know how to use git properly to track changes in your projects.
 
-I am updating a mistake here
+I am updating a mistake here.
+
+Adding the 2nd push here. 
