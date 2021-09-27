@@ -14,4 +14,7 @@ After finishing *LEarn Enough Git to be Dangerous*, you will know how to use git
 
 I am updating a mistake here.
 
-Adding the 2nd push here. 
+Adding the 2nd push here.
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
