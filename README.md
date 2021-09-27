@@ -11,3 +11,5 @@ Links to Beginner Tutorial include:
 [*Twitter Account*](https://learnenough.com/#email_list)
 
 After finishing *LEarn Enough Git to be Dangerous*, you will know how to use git properly to track changes in your projects.
+
+I am updating a mistake here
